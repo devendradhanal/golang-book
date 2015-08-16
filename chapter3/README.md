@@ -33,7 +33,7 @@ Go has two floating point types:
 
 
 ## Strings
-	String is a sequence of characters with a definite length used to represent text. Go strings are made up of individual bytes, usually one for each character. 
+String is a sequence of characters with a definite length used to represent text. Go strings are made up of individual bytes, usually one for each character. 
 
 String literals can be created using double quotes ```"Hello World"``` or back ticks ``` `Hello World` ```. The difference between these is that double quoted strings cannot contain newlines and they allow special escape sequences. 
 
