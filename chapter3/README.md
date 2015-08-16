@@ -13,7 +13,7 @@ there two alias types: ```byte``` which is the same as ```uint8``` and ```rune``
 
  There are also 3 machine dependent integer types: ```uint, int``` and ```uintptr``` as their size depends on the type of architecture you are using.
 
- ## Floating Point Numbers
+## Floating Point Numbers
 
  Floating point numbers are numbers that contain a decimal component.
  Floating point numbers
